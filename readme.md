@@ -14,7 +14,7 @@ Bean-Brew showcases handcrafted coffee, menu items, testimonials, gallery, and c
 - Smooth animations and clean UI design
 
 ## 🚀 Live Demo
-https://YOUR-USERNAME.github.io/bean-brew/
+https://nitish19work-ctrl.github.io/bean-brew-coffee-shop-website/
 
 ## 🛠 Tech Stack
 - HTML5
@@ -42,3 +42,4 @@ This project is designed to demonstrate:
 
 ## 👨‍💻 Author
 Made with ❤️ by Nitish Pal
+
